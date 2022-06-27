@@ -16,6 +16,7 @@ h1.innerHTML = "<a href='https://daum.net'>daum</a>"
 ```
 
 </br>
+
 - innerText- innerText는 'Element'의 속성으로, element내에서 사용자에게 보여지는 text값들을 가져오거나 설정할 수 있다.
 
 사용 예시
