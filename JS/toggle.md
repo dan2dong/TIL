@@ -1,6 +1,8 @@
-### toggle
+# toggle
 
 클릭시 글자색이 2개로 바뀌기
+
+</br>
 
 ```JS
 const h1 = document.querySelector(".hello h1");
@@ -61,19 +63,20 @@ h1 {
 ```
 
 </br>
-- toggle
 
-지금 현 상황: 폰트를 추가한 h1에 폰트를 유지한 채 click이벤트도 진행될 수 있도록 만들기
+ - toggle
 
-알아야 하는 것 :
+지금 현 상황: 폰트를 추가한 h1에 폰트를 유지한 채 click이벤트도 진행될 수 있도록 만들기.
 
+</br>
 classList란 우리가 class들의 목록으로 작업할 수 있게 해주는데
 className은 이전 class를 상관하지 않고 모든걸 교체해 버린다.
 
 classList는 HTML element의 class내용물을 조작하는 것을 허용한다.
 
 contains은 우리가 명시한 class가 HTML element의 class에 포함되어 있는지 말해준다.
-
+</br>
+</br>
 - toggle 함수는
 
 toggle 함수는 토큰이 존재하면 토큰제거
