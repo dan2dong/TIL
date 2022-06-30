@@ -1,4 +1,4 @@
-#event.preventDefault()
+# event.preventDefault()
 
 - 브라우저의 기본 behavior을 막는다.
 
