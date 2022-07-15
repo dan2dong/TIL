@@ -2,7 +2,7 @@
 
 ## Semantic web이란</br>
 
-: 의미를 가지는 웹이다.
+의미를 가지는 웹이다.
 
 일반 웹은 컴퓨터가 정보를 알지 못하지만
 semantic web은 컴퓨터가 정보를 알 수 있다.
@@ -39,7 +39,9 @@ semantic web은 컴퓨터가 정보를 알 수 있다.
 
 </br>
 </br>
-![다운로드 (6)](https://user-images.githubusercontent.com/91517680/179129577-287a518e-9d0b-4d9a-bbd0-29b1d35e8eb6.png)
+
+![다운로드 (6)](https://user-images.githubusercontent.com/91517680/179129872-e645c6b3-97ce-43f1-a948-24374cc09d21.png)
+
 </br>
 </br>
 
