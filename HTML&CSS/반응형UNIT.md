@@ -37,12 +37,12 @@ font-size : 1em과 동일하다.
 </br>
 1vw = 뷰포트 너비의 1%'로 계산됩니다.
 그렇다면 500px 너비인 뷰포트에서 1vw의 값은 5px이 되는 것이다.
-</br>
+</br></br>
 
-- 즉, 현재 실행중인 스크린 크기에 맞춰 상대적 크기를 반환하겠다는 뜻이다.</br>
-  ex) 현재 스크린크기가 height = 1000px, width = 800px이라면, </br>
-  1vh= 10px / 1vw =8px</br>
-  height: 50vh, width:25vw로 설정한다면 height = 500px ,width = 200px이 적용된다.
+즉, 현재 실행중인 스크린 크기에 맞춰 상대적 크기를 반환하겠다는 뜻이다.</br></br>
+ex) 현재 스크린크기가 height = 1000px, width = 800px이라면, </br>
+1vh= 10px / 1vw =8px</br>
+height: 50vh, width:25vw로 설정한다면 height = 500px ,width = 200px이 적용된다.
 
 ---
 
