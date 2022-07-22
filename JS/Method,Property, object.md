@@ -1,4 +1,4 @@
-# Property, Method, 객체, 변수, class, 인스턴스
+# Property, Method, object
 
 ## Method 메소드(멤버 함수)
 
