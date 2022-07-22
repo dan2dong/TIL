@@ -1,4 +1,4 @@
-# Property, Method, 객체
+# Property, Method, Object
 
 ## Method 메소드(멤버 함수)
 
@@ -47,7 +47,7 @@ let person = {
 </br>
 </br>
 
-## 객체
+## Object
 
 - Jacascript의 method에서 this는 method가 속한 객체
 - 인스턴스 생성 후 클래스에서 제공하는 프로퍼티와 메서드를 사용할 때 주로 사용
