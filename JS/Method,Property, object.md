@@ -1,4 +1,4 @@
-# Property, Method, object
+# Property, Method, 객체
 
 ## Method 메소드(멤버 함수)
 
@@ -23,7 +23,6 @@ obj.foo();
 
 </br>
 </br>
-
 ## Property
 
 - 키(key)와 값(value)이 연관된 객체(object)의 부분
@@ -33,18 +32,22 @@ obj.foo();
 - property는 객체에 포함, 변수는 컨텍스트에 포함
 
 ```JS
-var obj = {
-  x: 'local',
-  y: 'global'
-};
-obj.x; ---> local
-// x = key, 'local' = value => 둘을 합친 것 property
+let person = {
+	name: 'sean',
+    age: 24
+    };
 ```
 
+객체는 프로퍼티의 집합이라고 할 수 있다.
+
+- 프로퍼티: name: 'sean', age: 24
+- 프로퍼티 키: name,age
+- 프로퍼티 값: sean, 24
+
 </br>
 </br>
 
-## Object
+## 객체
 
 - Jacascript의 method에서 this는 method가 속한 객체
 - 인스턴스 생성 후 클래스에서 제공하는 프로퍼티와 메서드를 사용할 때 주로 사용
