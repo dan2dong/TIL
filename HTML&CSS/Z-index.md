@@ -47,7 +47,7 @@ HTML의 모든 요소는 다른 요소의 앞으로 나오거나 뒤로 들어�
 - 요소의 opacity 값이 1보다 작을 때
   </br>
   </br>
-  같은 단계의 Stacking Contents의 Stacking Order </br>
+  ### 같은 단계의 Stacking Contents의 Stacking Order </br>
 - 루트 요소(html) </br>
 - position 값이 있고 z-index 값이 음수인 요소(와 자식들) </br>
 - position 값이 없는 요소 (HTML 순서에 따라서) </br>
