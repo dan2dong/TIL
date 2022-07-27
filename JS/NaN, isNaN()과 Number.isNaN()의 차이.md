@@ -132,6 +132,13 @@ Number(-Infinity); // -Infinity
 
 ### NaN 과 배열 메서드
 
+배열 안에서 찾으려는 값(searchElement)과 정확하게 일치(===)하는  '첫번째' element의 index를 리턴.
+
+```JS
+arr.indexOf(searchElement,fromIndex)
+```
+
+</br>
 일부 배열 메서드에서는 NaN을 찾을 수 없다.
 
 ```JS
